@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @konmeso.
-- 👀 I’m currently doing my **thesis** in School of Naval Architecture & Marine Engineering in National Technical University of Athens on **Reinforcement Learning**.
-- 💞️ I’m looking to collaborate on Machine Learning projects or projects that could lead to starting a business.
-- 📫 How to reach me: (a) via email: kwstas.meso@gmail.com (b) on instagram: @kwstasmeso.
+- 👀 I just completed my **thesis** in School of Naval Architecture & Marine Engineering in National Technical University of Athens on **Reinforcement Learning**.
+- 💻 Currently working on new projects in C++ and Flutter. I will eventually update more of my past projects. 
+- 📫 How to reach me: (a) via email: kwstas.meso@gmail.com (b) on [LinkedIn](https://www.linkedin.com/in/konstantinos-mesolongitis/).
 
 <!---
 konmeso/konmeso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
