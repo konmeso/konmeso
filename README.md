@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @konmeso.
 - 👀 I just defended my **thesis** in School of Naval Architecture & Marine Engineering in National Technical University of Athens on **Reinforcement Learning**.
-- 💻 Currently working on an app from scratch for the organization HireFit.
+- 💻 Currently working on an app from scratch for my start-up Coach Me.
 - 📫 How to reach me: (a) via email: kwstas.meso@gmail.com (b) on [LinkedIn](https://www.linkedin.com/in/konstantinos-mesolongitis/).
 
 <!---
